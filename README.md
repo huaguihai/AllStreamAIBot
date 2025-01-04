@@ -26,8 +26,8 @@ Mine Data, Fuel AI, Earn Rewards Join the Stream AI Revolution
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Zlkcyber/streamAi.git
-   cd streamAi
+   git clone git@github.com:huaguihai/AllStreamAIBot.git
+   cd AllStreamAIBot
    ```
 2. Install dependencies:
    ```bash
@@ -50,9 +50,3 @@ Mine Data, Fuel AI, Earn Rewards Join the Stream AI Revolution
 ## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 This project is licensed under the [MIT License](LICENSE).
-
-
-
-
-
-
