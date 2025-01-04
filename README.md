@@ -16,7 +16,7 @@
 - **Node.js**: 请确保已安装Node.js
 - **NPM**: 请确保已安装npm
 - **AiStream ID**: 按以下步骤获取
-- 在此创建AiStream账号: [https://app.allstream.ai/](https://app.allstream.ai/index?referralCode=FlGQxaTO)
+- 创建AiStream账号: [https://app.allstream.ai/](https://app.allstream.ai/index?referralCode=vLfYVrZE)
 - 按F12打开开发者工具（如果已登录）
 - 在Network标签中找到MyInfo并复制您的ID
    ![uid](image-1.png)
@@ -26,7 +26,7 @@
 
 1. 克隆本仓库：
    ```bash
-   git clone git@github.com:huaguihai/AllStreamAIBot.git
+   git clone https://github.com/huaguihai/AllStreamAIBot.git
    cd AllStreamAIBot
    ```
 2. 安装依赖：
