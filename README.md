@@ -1,47 +1,47 @@
 # AllStream Depin
-Mine Data, Fuel AI, Earn Rewards Join the Stream AI Revolution
+挖掘数据，驱动AI，获取奖励 - 加入Stream AI革命
 ![alt text](image-2.png)
 
-- Website [https://app.allstream.ai/](https://app.allstream.ai/index?referralCode=FlGQxaTO)
+- 官网 [https://app.allstream.ai/](https://app.allstream.ai/index?referralCode=FlGQxaTO)
 - Twitter/X [@allstream_ai](https://x.com/allstream_ai)
 
-## Features
+## 功能特性
 
-- **Auto Create Connections**
-- **Support Multy Accounts**
-- **Support Proxy** format `http://ip:port` or `http://username:password@ip:port`
+- **自动创建连接**
+- **支持多账户**
+- **支持代理** 格式：`http://ip:port` 或 `http://用户名:密码@ip:port`
 
-## Requirements
+## 环境要求
 
-- **Node.js**: Ensure you have Node.js installed.
-- **NPM**: Ensure you have npm installed.
-- **AiStream ID**: follow instructions below to get
-- Create AiStream here : [https://app.allstream.ai/](https://app.allstream.ai/index?referralCode=FlGQxaTO)
-- F12 to inspect if you already login
-- find MyInfo from Network and copy your id.
+- **Node.js**: 请确保已安装Node.js
+- **NPM**: 请确保已安装npm
+- **AiStream ID**: 按以下步骤获取
+- 在此创建AiStream账号: [https://app.allstream.ai/](https://app.allstream.ai/index?referralCode=FlGQxaTO)
+- 按F12打开开发者工具（如果已登录）
+- 在Network标签中找到MyInfo并复制您的ID
    ![uid](image-1.png)
 
 
-## Setup
+## 安装步骤
 
-1. Clone this repository:
+1. 克隆本仓库：
    ```bash
    git clone git@github.com:huaguihai/AllStreamAIBot.git
    cd AllStreamAIBot
    ```
-2. Install dependencies:
+2. 安装依赖：
    ```bash
    npm install
    ```
-3. Setup: Paste userId to `userIds.txt` 1 line 1 account
+3. 配置：将用户ID粘贴到`userIds.txt`，每行一个账号
    ```bash
    nano userIds.txt
    ```
-4. Setup: paste proxy to `proxies.txt` 1 line 1 proxy
+4. 配置：将代理粘贴到`proxies.txt`，每行一个代理
    ```bash
    nano proxies.txt
    ```
-5. Run The Script:
+5. 运行脚本：
    ```bash
    npm run start
    ```
@@ -49,4 +49,4 @@ Mine Data, Fuel AI, Earn Rewards Join the Stream AI Revolution
 
 ## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-This project is licensed under the [MIT License](LICENSE).
+本项目采用 [MIT 许可证](LICENSE)。
